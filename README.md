@@ -1,2 +1,2 @@
 # GitHub-Actions
-Test
+Tests
